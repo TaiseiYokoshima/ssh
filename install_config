@@ -1,0 +1,4 @@
+Host mgt
+   User git
+   Hostname github.com
+   IdentityFile /home/rom/.ssh/github
