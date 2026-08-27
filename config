@@ -1,6 +1,1 @@
-Include ~/.config/ssh/work
-
-Host mgt
-   User git
-   Hostname github.com
-   IdentityFile ~/.config/ssh/github
+Include ~/.config/ssh/conf.d/*

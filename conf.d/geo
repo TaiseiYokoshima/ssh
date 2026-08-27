@@ -1,0 +1,4 @@
+Host geo
+   User git
+   Hostname gitlab.geo.arm.com
+   IdentityFile ~/.config/ssh/keys/arm_gitlab
