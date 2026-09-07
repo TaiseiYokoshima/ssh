@@ -2,3 +2,9 @@ Host spe
    User git
    Hostname  gitlab.prod.spe.aws.arm.com
    IdentityFile ~/.config/ssh/keys/arm_gitlab
+
+Host gitlab.prod.spe.aws.arm.com
+   User git
+   Hostname  gitlab.prod.spe.aws.arm.com
+   IdentityFile ~/.config/ssh/keys/arm_gitlab
+
